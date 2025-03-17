@@ -17,8 +17,4 @@ const Logo: React.FC<LogoProps> = ({ width = 80, height = 40 }) => {
   );
 };
 
-<<<<<<< HEAD
 export default Logo;
-=======
-export default Logo;
->>>>>>> 2377b71 (Fix build directory issue)
