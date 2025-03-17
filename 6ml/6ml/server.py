@@ -13,7 +13,7 @@ origins = [
     "http://localhost:5173",
     "http://localhost",
     "http://localhost:8000",
-
+    "https://shaswarakshageekssquad.netlify.app"  # Added deployed frontend URL
 ]
 
 app.add_middleware(
