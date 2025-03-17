@@ -1,6 +1,6 @@
 
-const BACKEND_URL = `http://localhost:3001`;
-const ML_URL = "http://127.0.0.1:8000";
+const BACKEND_URL = `https://swaraksha-ai.onrender.com`;
+const ML_URL = "https://swaraksha-ai.onrender.com";
 
 export {
     BACKEND_URL,
